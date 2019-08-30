@@ -1,4 +1,4 @@
-# Project Instruct - List Cards with filter
+# Project Zup - Form User with List Cards and filter
 
 Projeto apresenta um form user, ao submeter carrega uma lista de user com informações.
 Username: admin
