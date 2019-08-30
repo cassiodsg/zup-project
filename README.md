@@ -18,13 +18,6 @@ ReactJs
 
 ```
 
-### Clone Repository
-
-```
-<!-- git clone https://github.com/cassiodsg/project-instruct.git -->
-
-```
-
 ### Project setup
 
 Para executar a aplicação no seu ambiente de desenvolvimento, escreva esse comandos em seu Terminal(Mac) ou Prompt de Comando(Windows), dentro da pasta do projeto, que acabou de clonar.
